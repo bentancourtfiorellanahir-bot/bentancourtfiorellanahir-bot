@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Fiorella 👋
 
-<!--
-**bentancourtfiorellanahir-bot/bentancourtfiorellanahir-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabajo en educación especial y estoy empezando en desarrollo con Python.
 
-Here are some ideas to get you started:
+Empecé a programar para resolver necesidades reales en el aula, principalmente relacionadas con accesibilidad, adaptación de contenidos y automatización.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## En qué estoy trabajando
+
+- Herramientas en Python para accesibilidad
+- Automatización de tareas educativas
+- Simplificación de contenido
+
+## Proyectos destacados
+
+- [Accessible Text Helper](https://github.com/bentancourtfiorellanahir-bot/accessible-text-helper)
+- Próximamente: Text Simplifier
+- Próximamente: Learning Content Adapter
+
+## Actualmente
+
+Formándome en desarrollo full stack.
+
+## Contacto
+
+- LinkedIn: https://www.linkedin.com/in/fiorella-nahir-bentancourt-7733a33b6/
