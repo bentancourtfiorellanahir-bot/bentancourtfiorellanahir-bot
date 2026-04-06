@@ -139,11 +139,3 @@ A tool designed to simplify and transform text into more accessible formats, sup
 * LinkedIn: https://www.linkedin.com/in/fiorella-nahir-bentancourt-7733a33b6/
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bentancourtfiorellanahir-bot&show_icons=true&theme=tokyonight" />
-</p>
-
-</div>
