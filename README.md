@@ -51,7 +51,7 @@ A cognitive support tool that transforms overwhelming tasks into clear, structur
 🔗 https://github.com/bentancourtfiorellanahir-bot/cognitive-helper
 
 <p align="center">
-  <img src="cognitive-helper/assets/screenshots/hero.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/bentancourtfiorellanahir-bot/cognitive-helper/main/assets/screenshots/hero.png" width="100%"/>
 </p>
 
 **Key features:**
