@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer in progress</b><br />
-  Accessibility · Education Technology · Automation · Cognitive UX
+  <b>Human-centered Python developer building accessibility and UX-focused tools.</b><br />
+  Accessibility · Automation · Cognitive UX · Education Technology · Data Systems
 </p>
 
 <p align="center">
@@ -30,13 +30,13 @@ My work is especially focused on:
 - Clear interfaces and structured workflows
 - Python, web development, automation, and databases
 
-I care about software that solves real problems, not just software that looks finished.
+I care about software that solves real problems, communicates clearly, and shows clean engineering habits.
 
 ---
 
 ## Sobre mi
 
-Soy desarrolladora en formacion full-stack, enfocada en crear herramientas digitales utiles, claras y accesibles.
+Soy desarrolladora Python en formacion full-stack, enfocada en crear herramientas digitales utiles, claras y accesibles.
 
 Me interesa construir tecnologia que ayude a las personas a entender mejor, organizarse mejor y participar con menos barreras.
 
@@ -74,6 +74,8 @@ Stack: Next.js, TypeScript, Tailwind CSS, FastAPI, Python, PostgreSQL, SQLModel.
 ---
 
 ## Featured Projects
+
+These are the repositories that best represent my current direction: accessibility-focused development, product thinking, APIs, automation, and structured information systems.
 
 ### Cognitive Helper
 
@@ -118,6 +120,14 @@ Key features:
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
 </p>
+
+Python · FastAPI · Flask · PostgreSQL · APIs · Automation · Git · HTML · CSS · JavaScript · TypeScript · React · Next.js
+
+---
+
+## Interests
+
+Accessibility · UX · Cognitive UX · Automation · Human-Centered Design · Data Systems · Educational Technology
 
 ---
 
