@@ -1,104 +1,137 @@
-<h1 align="center">👩‍💻 Fiorella Bentancourt</h1>
+<h1 align="center">Fiorella Bentancourt</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9+-blue"/>
-  <img src="https://img.shields.io/badge/focus-accessibility%20%7C%20automation-purple"/>
-  <img src="https://img.shields.io/badge/status-open%20to%20work-brightgreen"/>
-  <img src="https://img.shields.io/badge/learning-full--stack%20%7C%20databases-orange"/>
+  <b>Full-Stack Developer in progress</b><br />
+  Accessibility · Education Technology · Automation · Cognitive UX
 </p>
 
 <p align="center">
-🚀 <b>Full-Stack Developer</b> | Accessibility • Automation • Cognitive UX
-</p>
-
-<p align="center">
-Building real-world tools that simplify complexity and improve how people interact with technology.
+  <img src="https://img.shields.io/badge/focus-accessibility%20first-2f6f5e" />
+  <img src="https://img.shields.io/badge/building-real%20world%20tools-123b36" />
+  <img src="https://img.shields.io/badge/learning-full%20stack-f2b84b" />
+  <img src="https://img.shields.io/badge/location-Buenos%20Aires-d96b5f" />
 </p>
 
 ---
 
-## 🇺🇸 About Me
+## About Me
 
-I am a developer focused on building **practical, real-world tools** that solve meaningful problems — especially in accessibility, education, and user experience.
+I build practical digital tools that make information clearer, tasks easier to follow, and technology more accessible.
 
-My approach combines:
-- Technical execution (Python, web development)
-- Product thinking (clarity, usability, real needs)
-- Accessibility-first mindset (reducing cognitive load)
+My work is especially focused on:
 
-I don’t just build features — I design **systems that help people think, understand, and act more easily**.
+- Accessibility and inclusive design
+- Educational tools for teachers and learners
+- Cognitive load reduction
+- Clear interfaces and structured workflows
+- Python, web development, automation, and databases
 
----
-
-## 🇪🇸 Sobre mí
-
-Soy desarrolladora enfocada en crear **soluciones reales y prácticas** que resuelven problemas concretos, especialmente en accesibilidad, educación y experiencia de usuario.
-
-Mi enfoque combina:
-- Ejecución técnica (Python, desarrollo web)
-- Pensamiento de producto (claridad, usabilidad, necesidades reales)
-- Diseño centrado en accesibilidad (reducción de carga cognitiva)
-
-No construyo solo funcionalidades — diseño **sistemas que ayudan a pensar, entender y actuar mejor**.
+I care about software that solves real problems, not just software that looks finished.
 
 ---
 
-## 🧠 Featured Project
+## Sobre mi
 
-### Cognitive Helper  
+Soy desarrolladora en formacion full-stack, enfocada en crear herramientas digitales utiles, claras y accesibles.
+
+Me interesa construir tecnologia que ayude a las personas a entender mejor, organizarse mejor y participar con menos barreras.
+
+Trabajo especialmente sobre:
+
+- Accesibilidad digital
+- Educacion y tecnologia educativa
+- Reduccion de carga cognitiva
+- Interfaces claras y usables
+- Python, desarrollo web, automatizacion y bases de datos
+
+---
+
+## Current Project
+
+### Aula Clara
+
+Aula Clara is a web platform for teachers that helps detect accessibility barriers in educational materials and transform them into clearer, more structured, and more accessible resources.
+
+The project is based on the social model of disability: it does not try to "fix" students. It focuses on reducing barriers in the educational environment.
+
+Key ideas:
+
+- Clear language versions
+- Accessible summaries
+- Glossaries for difficult terms
+- Activity steps
+- Pedagogical accessibility recommendations
+- Student mode with large text, focus mode, high contrast, and block-based reading
+
+Status: MVP in private development.
+
+Stack: Next.js, TypeScript, Tailwind CSS, FastAPI, Python, PostgreSQL, SQLModel.
+
+---
+
+## Featured Project
+
+### Cognitive Helper
+
 A cognitive support tool that transforms overwhelming tasks into clear, structured steps.
 
-🔗 https://github.com/bentancourtfiorellanahir-bot/cognitive-helper
+Repository: https://github.com/bentancourtfiorellanahir-bot/cognitive-helper
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bentancourtfiorellanahir-bot/cognitive-helper/main/assets/screenshots/hero.png" width="100%"/>
-</p>
+Key features:
 
-**Key features:**
-- Rule-based planning system (no AI dependency)
-- Focus Mode → one step at a time
+- Rule-based planning system
+- Focus Mode: one step at a time
 - Built-in Pomodoro timer
 - Accessibility-first design
-- Bilingual support (EN/ES)
+- Bilingual support: English and Spanish
 
 ---
 
-## 🛠️ Tech & Skills
+## Tech Stack
 
-- Python (automation, data handling, backend logic)
-- HTML, CSS, JavaScript (frontend & UI)
-- Accessibility-focused development
-- Problem solving & logical thinking
-- System design with real user focus
-
----
-
-## 📚 Currently Learning
-
-- Full-Stack Development  
-- Software Engineering fundamentals  
-- Relational Databases  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=111" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 What I’m Looking For
+## What I Am Learning
 
-Opportunities where I can:
-- Build meaningful, user-centered products  
-- Contribute to real-world solutions  
-- Grow as a developer in collaborative environments  
-
----
-
-## 📫 Contact
-
-- 📍 Buenos Aires, Argentina  
-- 📧 bentancourtfiorellanahir@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/fiorella-nahir-bentancourt-7733a33b6/
+- Full-stack application architecture
+- Backend APIs and database design
+- Authentication and deploy-ready workflows
+- Accessibility from the first design decision
+- Clean, maintainable code for real products
 
 ---
 
-## ⚡ Core Idea
+## What I Am Looking For
 
-> Technology should reduce friction, not create it.  
-> I build tools that make things clearer, simpler, and more human.
+I am interested in opportunities where I can:
+
+- Build meaningful products
+- Work on accessibility, education, or human-centered technology
+- Grow as a developer in a collaborative environment
+- Contribute to tools that make complex things easier to use
+
+---
+
+## Contact
+
+- Buenos Aires, Argentina
+- Email: bentancourtfiorellanahir@gmail.com
+- LinkedIn: https://www.linkedin.com/in/fiorella-nahir-bentancourt-7733a33b6/
+
+---
+
+<p align="center">
+  <b>Technology should reduce friction, not create it.</b><br />
+  I build tools that make things clearer, simpler, and more human.
+</p>
