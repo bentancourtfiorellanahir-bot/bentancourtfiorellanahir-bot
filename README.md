@@ -69,7 +69,7 @@ Stack: Next.js, TypeScript, Tailwind CSS, FastAPI, Python, PostgreSQL, SQLModel.
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### Cognitive Helper
 
@@ -84,6 +84,21 @@ Key features:
 - Built-in Pomodoro timer
 - Accessibility-first design
 - Bilingual support: English and Spanish
+
+### Job Market Intelligence
+
+A labor market intelligence platform for ingesting, normalizing, preserving, and serving job-market data from safer public sources.
+
+Repository: https://github.com/bentancourtfiorellanahir-bot/job-market-intelligence
+
+Key features:
+
+- FastAPI backend with PostgreSQL persistence
+- Public ATS API ingestion strategy
+- Historical snapshots and inactive-job detection
+- Normalization and enrichment layer
+- Analytics-ready API endpoints
+- Dashboard layer served from FastAPI
 
 ---
 
