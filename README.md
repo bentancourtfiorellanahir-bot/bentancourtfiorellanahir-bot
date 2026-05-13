@@ -1,6 +1,10 @@
 <h1 align="center">Fiorella Bentancourt</h1>
 
 <p align="center">
+  <img src="./assets/profile-banner.png" alt="Fiorella Bentancourt portfolio banner: accessibility, education technology, automation, cognitive UX, and featured projects" width="100%" />
+</p>
+
+<p align="center">
   <b>Full-Stack Developer in progress</b><br />
   Accessibility · Education Technology · Automation · Cognitive UX
 </p>
